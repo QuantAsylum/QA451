@@ -4,5 +4,5 @@ The product page is [HERE](https://quantasylum.com/collections/frontpage/product
 
 Downloads are [HERE](https://github.com/QuantAsylum/QA451/releases)
 
-Wiki is [HERE](https://github.com/QuantAsylum/QA451/releases)
+Wiki is [HERE](https://github.com/QuantAsylum/QA451/wiki)
  
